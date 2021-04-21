@@ -6,7 +6,7 @@ Scarica le slide da qui: Coming soon!
 
 DOI: Coming soon!
 
-Questa repository contiene un esempio sull'utilizzo del <b><a href="https://getbootstrap.com/docs/4.6/layout/grid/" target="_blank" title="Grid system di Bootstrap">Grid system di Bootstrap v.4.6</b> creato appositamente per il corso tenuto Digital Humanities e Patrimonio Culturale (1)(LM).
+Questa repository contiene un esempio sull'utilizzo del <b><a href="https://getbootstrap.com/docs/4.6/layout/grid/" target="_blank" title="Grid system di Bootstrap">Grid system di Bootstrap v.4.6</a></b> creato appositamente per il corso tenuto Digital Humanities e Patrimonio Culturale (1)(LM).
 
 Analizza il codice sorgente index.html per comprendere come implementare una griglia in Bootstrap. Cambia le dimensioni della finestra del browser per osservare come Bootstrap gestisce il layout in modo responsivo:
 
