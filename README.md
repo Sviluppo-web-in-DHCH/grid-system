@@ -10,7 +10,7 @@ Questa repository contiene un esempio sull'utilizzo del <b>Grid system di Bootst
 
 Analizza il codice sorgente index.html per comprendere come implementare una griglia in Bootstrap. Cambia le dimensioni della finestra del browser per osservare come Bootstrap gestisce il layout in modo responsivo:
 
-<b>https://martinadellobuono.github.io/esempio-grid-system-dhch/</b>
+<b>https://sviluppo-web-dhch.github.io/grid-system/</b>
 
 GLHF!
 
