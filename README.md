@@ -20,7 +20,7 @@ Analizza il codice sorgente index.html per comprendere come implementare una gri
 
 <b>https://sviluppo-web-dhch.github.io/grid-system/</b>
 
-GLHF!
+GLHF
 
 Martina Dello Buono
 <br>
